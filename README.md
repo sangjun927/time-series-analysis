@@ -31,5 +31,4 @@ Achieved a top 3 ranking among 40 groups, this project presents a comprehensive 
 - Enhanced the SARIMAX predictions with LSTM residuals, yielding the best RMSE of 59.03 but noted potential overfitting.
 
 ## Conclusion
-Despite the outstanding performance of the combined SARIMAX and LSTM approach, we eventually selected the Prophet model due to its balance of accuracy and stability, avoiding the overfitting observed in the more complex model. This decision underlines our commitment to developing reliable and practical solutions for forecasting in the renewable energy sector.
-
+Despite the outstanding performance of the combined SARIMAX and LSTM approach, we eventually selected the Prophet model due to its balance of accuracy and stability, avoiding the overfitting observed in the more complex model. This strategic choice not only ensured the reliability of our forecasts but also led us to secure a top 3 position among 40 groups, underlining our commitment to developing reliable forecasting solutions in the renewable energy sector.
