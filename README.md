@@ -1,4 +1,5 @@
 # Time Series Analysis: Wind Power Forecasting
+![64a80371696fdd543e06257a_Orange-and-green-chart-on-blue-background-p-8001-ezgif com-webp-to-jpg-converter](https://github.com/sangjun927/time-series-analysis/assets/36908657/24ba380c-7cfa-438c-9fdb-d07102d241ed)
 
 ## Project Overview
 Achieved a top 3 ranking among 40 groups, this project presents a comprehensive approach to forecasting wind power generation. Utilizing the Prophet model, we accomplished a highly accurate forecast with an RMSE score of 162.88, and identified the optimal seasonal forecasting period.
